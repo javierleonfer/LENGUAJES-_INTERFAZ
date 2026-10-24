@@ -9,7 +9,7 @@
 ;AND extrae los bits seleccionados, OR enciende el bit de la alarma, 
 ;XOR cambia el estado del bit de conexión y NOT invierte todos los bits. 
 ;Después utiliza TEST para comprobar si la alarma está encendida mediante una máscara; JZ salta a alarmaApagada si el resultado es cero.
-:Si la alarma está encendida, EBX toma el valor 1; si está apagada, toma el valor 0. DumpRegs permite observar los registros
+;Si la alarma está encendida, EBX toma el valor 1; si está apagada, toma el valor 0. DumpRegs permite observar los registros
 ;y las banderas después de cada operación
 ;mientras que NOP sirve como punto para revisar los resultados.
 INCLUDE Irvine32.inc
