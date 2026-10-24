@@ -13,7 +13,7 @@
 5.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%205.%20Condicionales.asm
 5.1https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%205.1.%20Repetir%20Hasta%20que%20el%20Usuario%20Ingrese%200.asm
 6.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%206.%20Decremento%20e%20Incremento.asm 6.1https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%206.1.%20Control%20de%20Ocupaci%C3%B3n%20de%20un%20Estacionamiento.asm
- 7.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%207.%20Validaci%C3%B3n%20de%20Formato.asm
+7.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%207.%20Validaci%C3%B3n%20de%20Formato.asm
  8.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%208.%20Operaciones%20Aritm%C3%A9ticas.asm
  9.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%209.%20Push%20y%20Pop.asm
 10.https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%20_10.%20Cadena%20con%20Decimal.asm
