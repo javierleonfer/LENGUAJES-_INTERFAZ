@@ -1,11 +1,11 @@
 # LENGUAJES_INTERFAZ
-*Irvine 32_Prácticas de lenguaje ensamblador Archivos MASM 
-*Materia: Lenguajes de Interfaz 
-*Alumno:LEON FERNANDEZ ALEXIS JAVIER 
-*Horario:9-10HRS
-*Docente: Dr. José Luis Medina Jiménez 
-*PRACTICAS PEDIDAD UNIDAD2:
-*INDICE:
+
+[*Materia: Lenguajes de Interfaz] 
+[*Alumno:LEON FERNANDEZ ALEXIS JAVIER ]
+[*Horario:8-9HRS]
+[*Docente: Dr. José Luis Medina Jiménez] 
+[*PRACTICAS PEDIDAD UNIDAD2:]
+[*INDICE:]
 1. [Práctica 1](https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%201.%20Ciclos%20Num%C3%A9ricos.asm)
 2. [Práctica 2](https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%202-%20Captura%20y%20Desplegado%20de%20Mensaje.asm)
 3. [Práctica 3](https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/4a343f5d1ca9b4bffe3dceef02716a0eb090c83b/Pr%C3%A1ctica%203-Comparaci%C3%B3n%20y%20Prueba.asm)
