@@ -5,4 +5,4 @@ Irvine 32_Prácticas de lenguaje ensamblador Archivos MASM
 ; Horario:9-10HRS
 ; Docente: Dr. José Luis Medina Jiménez 
 PRACTICAS PEDIDAD UNIDAD2:
-1. [Práctica 01 — Ciclo LOOP](Practica-01/Practica01.asm)
+1. https://github.com/javierleonfer/LENGUAJES-_INTERFAZ/blob/main/Pr%C3%A1ctica%201.%20Ciclos%20Num%C3%A9ricos.asm
