@@ -13,7 +13,6 @@
 ;Si el dato es válido, muestra la existencia actualizada; si es incorrecto,
 ;vuelve a solicitarlo. La rutina ConvertirDecimal transforma el total numérico en una cadena para poder imprimirlo en pantalla.
 ;INCLUDE Irvine32.inc
-
 .data
 mensaje BYTE "Ingrese la cantidad de ESP32 recibidas (1-99): ", 0
 mensajeError BYTE "Error: ingrese un numero entre 1 y 99.", 0
@@ -144,3 +143,36 @@ Guardar:
 ConvertirDecimal ENDP
 
 END main
+;mi parte hecha en clase 
+; Ej. Técnica usada: ASCII, DWORD
+
+.data
+    existenciaActual DWORD 25
+    cantidadRecibida DWORD 0
+    entrada BYTE 3 DUP(?)
+
+; Captura
+    mov edx, OFFSET entrada
+    mov ecx, 2
+    call ReadString
+
+; Validar 1-2 dígitos
+    cmp eax, 1
+    jb ErrorEntrada
+
+    cmp eax, 2
+    ja ErrorEntrada
+
+; Validar caracteres
+    mov al, [esi]
+    cmp al, '0'
+    jb ErrorEntrada
+
+    cmp al, '9'
+    ja ErrorEntrada
+
+; Convertir caracteres a números
+    sub al, '0'
+    movzx eax, al
+    movzx ebx, al
+    add ...
